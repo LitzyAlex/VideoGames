@@ -1,0 +1,20 @@
+# Archivos generados por Unity
+**/Library/
+**/Temp/
+**/Obj/
+**/Build/
+**/Builds/
+**/Logs/
+**/UserSettings/
+
+# Archivos temporales del editor
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.tmp
+
+# Sistema operativo
+Thumbs.db
+.DS_Store

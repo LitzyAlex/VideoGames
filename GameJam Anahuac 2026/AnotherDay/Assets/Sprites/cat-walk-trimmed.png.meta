@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 668144e9b15e43741a886d105d568b3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5370677990103098093
+    second: cat-walk-trimmed_0
+  - first:
+      213: 6861575901573122785
+    second: cat-walk-trimmed_1
+  - first:
+      213: -1329368983115311846
+    second: cat-walk-trimmed_2
+  - first:
+      213: -7682516489857085914
+    second: cat-walk-trimmed_3
+  - first:
+      213: 996989734722909105
+    second: cat-walk-trimmed_4
+  - first:
+      213: -8792948895464437887
+    second: cat-walk-trimmed_5
+  - first:
+      213: -4762665121166936961
+    second: cat-walk-trimmed_6
+  - first:
+      213: -6497208258840356478
+    second: cat-walk-trimmed_7
+  - first:
+      213: 4158286715313531813
+    second: cat-walk-trimmed_8
+  - first:
+      213: 7586395029304457799
+    second: cat-walk-trimmed_9
+  - first:
+      213: 7895347860325612106
+    second: cat-walk-trimmed_10
+  - first:
+      213: -8447278511716934757
+    second: cat-walk-trimmed_11
+  - first:
+      213: -1573382264460294578
+    second: cat-walk-trimmed_12
+  - first:
+      213: 8074958458561361287
+    second: cat-walk-trimmed_13
+  - first:
+      213: 2454338046060902074
+    second: cat-walk-trimmed_14
+  - first:
+      213: 101881697778326059
+    second: cat-walk-trimmed_15
+  - first:
+      213: -3151116631959297745
+    second: cat-walk-trimmed_16
+  - first:
+      213: 3150724897457427436
+    second: cat-walk-trimmed_17
+  - first:
+      213: -5372467627355719641
+    second: cat-walk-trimmed_18
+  - first:
+      213: 1377745909474195007
+    second: cat-walk-trimmed_19
+  - first:
+      213: -1388969224644128985
+    second: cat-walk-trimmed_20
+  - first:
+      213: -4633303377959318861
+    second: cat-walk-trimmed_21
+  - first:
+      213: -7717092023631917973
+    second: cat-walk-trimmed_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat-walk-trimmed_0
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 11867
+        width: 1406
+        height: 2715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d55e4b2d48775b0800000000000000
+      internalID: -5370677990103098093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_1
+      rect:
+        serializedVersion: 2
+        x: 13653
+        y: 11905
+        width: 1092
+        height: 2642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea85a4ade6393f50800000000000000
+      internalID: 6861575901573122785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_2
+      rect:
+        serializedVersion: 2
+        x: 14237
+        y: 14547
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a155df104f12d8de0800000000000000
+      internalID: -1329368983115311846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_3
+      rect:
+        serializedVersion: 2
+        x: 17431
+        y: 11905
+        width: 1177
+        height: 2656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eccf8c4f7326590800000000000000
+      internalID: -7682516489857085914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_4
+      rect:
+        serializedVersion: 2
+        x: 21211
+        y: 11907
+        width: 1290
+        height: 2654
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3bed6a1e406dd00800000000000000
+      internalID: 996989734722909105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_5
+      rect:
+        serializedVersion: 2
+        x: 9810
+        y: 11916
+        width: 1318
+        height: 2595
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187cdad019b29f580800000000000000
+      internalID: -8792948895464437887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_6
+      rect:
+        serializedVersion: 2
+        x: 21206
+        y: 14024
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74b3b45e4d97edb0800000000000000
+      internalID: -4762665121166936961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_7
+      rect:
+        serializedVersion: 2
+        x: 7416
+        y: 13154
+        width: 7
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2891614238745d5a0800000000000000
+      internalID: -6497208258840356478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_8
+      rect:
+        serializedVersion: 2
+        x: 6293
+        y: 11931
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab2d7c6cb335b930800000000000000
+      internalID: 4158286715313531813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_9
+      rect:
+        serializedVersion: 2
+        x: 6091
+        y: 8144
+        width: 1226
+        height: 2614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a3b7fa51a484960800000000000000
+      internalID: 7586395029304457799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_10
+      rect:
+        serializedVersion: 2
+        x: 9827
+        y: 8155
+        width: 1212
+        height: 2579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a39d03c09e19d60800000000000000
+      internalID: 7895347860325612106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_11
+      rect:
+        serializedVersion: 2
+        x: 13653
+        y: 8154
+        width: 1092
+        height: 2604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b525ef2fc35ca80800000000000000
+      internalID: -8447278511716934757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_12
+      rect:
+        serializedVersion: 2
+        x: 17433
+        y: 8154
+        width: 1092
+        height: 2636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46c1f6aa293a2ae0800000000000000
+      internalID: -1573382264460294578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_13
+      rect:
+        serializedVersion: 2
+        x: 21213
+        y: 8156
+        width: 1185
+        height: 2621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785f5926fe3001070800000000000000
+      internalID: 8074958458561361287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_14
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 4374
+        width: 1378
+        height: 2577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6bf22037f8f0220800000000000000
+      internalID: 2454338046060902074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_15
+      rect:
+        serializedVersion: 2
+        x: 9808
+        y: 4362
+        width: 1322
+        height: 2589
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ad0354dd4f96100800000000000000
+      internalID: 101881697778326059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_16
+      rect:
+        serializedVersion: 2
+        x: 13651
+        y: 4356
+        width: 1094
+        height: 2640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21ad3a5e1cf444d0800000000000000
+      internalID: -3151116631959297745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_17
+      rect:
+        serializedVersion: 2
+        x: 17433
+        y: 4346
+        width: 1170
+        height: 2662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3dde9d99f99bb20800000000000000
+      internalID: 3150724897457427436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_18
+      rect:
+        serializedVersion: 2
+        x: 21213
+        y: 4362
+        width: 1285
+        height: 2617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7283d2058292175b0800000000000000
+      internalID: -5372467627355719641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_19
+      rect:
+        serializedVersion: 2
+        x: 6009
+        y: 591
+        width: 1324
+        height: 2580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36f4f4ea9cbe1310800000000000000
+      internalID: 1377745909474195007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_20
+      rect:
+        serializedVersion: 2
+        x: 9873
+        y: 594
+        width: 1092
+        height: 2604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f032969d369bce0800000000000000
+      internalID: -1388969224644128985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_21
+      rect:
+        serializedVersion: 2
+        x: 13653
+        y: 594
+        width: 1092
+        height: 2635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba0e14402333bfb0800000000000000
+      internalID: -4633303377959318861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed_22
+      rect:
+        serializedVersion: 2
+        x: 17429
+        y: 594
+        width: 1095
+        height: 2633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c4b6001b167e490800000000000000
+      internalID: -7717092023631917973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 86377145c17059d47a87ed2e3a56ef84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cat-walk-trimmed_0: -5370677990103098093
+      cat-walk-trimmed_1: 6861575901573122785
+      cat-walk-trimmed_10: 7895347860325612106
+      cat-walk-trimmed_11: -8447278511716934757
+      cat-walk-trimmed_12: -1573382264460294578
+      cat-walk-trimmed_13: 8074958458561361287
+      cat-walk-trimmed_14: 2454338046060902074
+      cat-walk-trimmed_15: 101881697778326059
+      cat-walk-trimmed_16: -3151116631959297745
+      cat-walk-trimmed_17: 3150724897457427436
+      cat-walk-trimmed_18: -5372467627355719641
+      cat-walk-trimmed_19: 1377745909474195007
+      cat-walk-trimmed_2: -1329368983115311846
+      cat-walk-trimmed_20: -1388969224644128985
+      cat-walk-trimmed_21: -4633303377959318861
+      cat-walk-trimmed_22: -7717092023631917973
+      cat-walk-trimmed_3: -7682516489857085914
+      cat-walk-trimmed_4: 996989734722909105
+      cat-walk-trimmed_5: -8792948895464437887
+      cat-walk-trimmed_6: -4762665121166936961
+      cat-walk-trimmed_7: -6497208258840356478
+      cat-walk-trimmed_8: 4158286715313531813
+      cat-walk-trimmed_9: 7586395029304457799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 76be281758ed8364fa927daca50d92bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5952621782287449795
+    second: sad5_0
+  - first:
+      213: 7875191827607042880
+    second: sad5_1
+  - first:
+      213: -4261544697191383276
+    second: sad5_2
+  - first:
+      213: -2480431855235830012
+    second: sad5_3
+  - first:
+      213: -6183991709227671101
+    second: sad5_4
+  - first:
+      213: -5812154260987128755
+    second: sad5_5
+  - first:
+      213: 2055204263575002937
+    second: sad5_6
+  - first:
+      213: 6975297848174686928
+    second: sad5_7
+  - first:
+      213: -7593453987466999966
+    second: sad5_8
+  - first:
+      213: 4076270138447979444
+    second: sad5_9
+  - first:
+      213: 268521399066233796
+    second: sad5_10
+  - first:
+      213: -7104504538601006800
+    second: sad5_11
+  - first:
+      213: -5990103460695585874
+    second: sad5_12
+  - first:
+      213: -6338311506192480361
+    second: sad5_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sad5_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6167
+        width: 698
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cefe7ff8f5fb9250800000000000000
+      internalID: 5952621782287449795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_1
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 7434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bb39e1e3d4a4d60800000000000000
+      internalID: 7875191827607042880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_2
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 6177
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f35713da3fbd4c0800000000000000
+      internalID: -4261544697191383276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_3
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 6179
+        width: 698
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fea1b9e5cb39dd0800000000000000
+      internalID: -2480431855235830012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_4
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4596
+        width: 698
+        height: 1538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1268dfd4c0e2aa0800000000000000
+      internalID: -6183991709227671101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_5
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4645
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d6166e74175fa0800000000000000
+      internalID: -5812154260987128755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3109
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f9147836d858c10800000000000000
+      internalID: 2055204263575002937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_7
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 3108
+        width: 698
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2bffaaf6c3dc060800000000000000
+      internalID: 6975297848174686928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_8
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 3105
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26781ca84d1ae9690800000000000000
+      internalID: -7593453987466999966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_9
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1570
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b369ba0812d19830800000000000000
+      internalID: 4076270138447979444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_10
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1562
+        width: 699
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb0fed2acaf9b300800000000000000
+      internalID: 268521399066233796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 26
+        width: 665
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039598f63cab76d90800000000000000
+      internalID: -7104504538601006800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_12
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 28
+        width: 665
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabc661b3a0eedca0800000000000000
+      internalID: -5990103460695585874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sad5_13
+      rect:
+        serializedVersion: 2
+        x: 4285
+        y: 26
+        width: 665
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79740a5544bc908a0800000000000000
+      internalID: -6338311506192480361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sad5_0: 5952621782287449795
+      sad5_1: 7875191827607042880
+      sad5_10: 268521399066233796
+      sad5_11: -7104504538601006800
+      sad5_12: -5990103460695585874
+      sad5_13: -6338311506192480361
+      sad5_2: -4261544697191383276
+      sad5_3: -2480431855235830012
+      sad5_4: -6183991709227671101
+      sad5_5: -5812154260987128755
+      sad5_6: 2055204263575002937
+      sad5_7: 6975297848174686928
+      sad5_8: -7593453987466999966
+      sad5_9: 4076270138447979444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

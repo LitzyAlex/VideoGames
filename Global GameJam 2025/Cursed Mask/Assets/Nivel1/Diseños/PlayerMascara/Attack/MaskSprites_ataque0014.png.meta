@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 5a2877ff0541ffe458032f441ff23963
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7338565989406940198
+    second: MaskSprites_ataque0014_0
+  - first:
+      213: -1903348796246979134
+    second: MaskSprites_ataque0014_1
+  - first:
+      213: 5661104811209030050
+    second: MaskSprites_ataque0014_2
+  - first:
+      213: 7722545967540594704
+    second: MaskSprites_ataque0014_3
+  - first:
+      213: 2175988534425779269
+    second: MaskSprites_ataque0014_4
+  - first:
+      213: -367794756867060020
+    second: MaskSprites_ataque0014_5
+  - first:
+      213: 730437115699765313
+    second: MaskSprites_ataque0014_6
+  - first:
+      213: 5245144174746233519
+    second: MaskSprites_ataque0014_7
+  - first:
+      213: -5267293397862666789
+    second: MaskSprites_ataque0014_8
+  - first:
+      213: -781943337790509045
+    second: MaskSprites_ataque0014_9
+  - first:
+      213: -669503532524847703
+    second: MaskSprites_ataque0014_10
+  - first:
+      213: 6666387806198416480
+    second: MaskSprites_ataque0014_11
+  - first:
+      213: 6577058064309540183
+    second: MaskSprites_ataque0014_12
+  - first:
+      213: 751170233842525525
+    second: MaskSprites_ataque0014_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 355
+        width: 593
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3e2a03d1d282a90800000000000000
+      internalID: -7338565989406940198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_1
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 685
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd080caa52f595e0800000000000000
+      internalID: -1903348796246979134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_2
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 637
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97e5cf4d8409e40800000000000000
+      internalID: 5661104811209030050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_3
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 612
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018e1e444aefb2b60800000000000000
+      internalID: 7722545967540594704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 248
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c75cd0b0aa23e10800000000000000
+      internalID: 2175988534425779269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 207
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce00b60e9455eaf0800000000000000
+      internalID: -367794756867060020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_6
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 140
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140ab0ccfa8032a00800000000000000
+      internalID: 730437115699765313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 47
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa657346de7ac840800000000000000
+      internalID: 5245144174746233519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 92
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda2acdf80d6e6b0800000000000000
+      internalID: -5267293397862666789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 69
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00738c5daaf525f0800000000000000
+      internalID: -781943337790509045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_10
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 8
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adbcf7951275b6f0800000000000000
+      internalID: -669503532524847703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_11
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 29
+        width: 56
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064c373c364c38c50800000000000000
+      internalID: 6666387806198416480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 20
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d9467677664b50800000000000000
+      internalID: 6577058064309540183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaskSprites_ataque0014_13
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 18
+        width: 44
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555e70a0951bc6a00800000000000000
+      internalID: 751170233842525525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MaskSprites_ataque0014_0: -7338565989406940198
+      MaskSprites_ataque0014_1: -1903348796246979134
+      MaskSprites_ataque0014_10: -669503532524847703
+      MaskSprites_ataque0014_11: 6666387806198416480
+      MaskSprites_ataque0014_12: 6577058064309540183
+      MaskSprites_ataque0014_13: 751170233842525525
+      MaskSprites_ataque0014_2: 5661104811209030050
+      MaskSprites_ataque0014_3: 7722545967540594704
+      MaskSprites_ataque0014_4: 2175988534425779269
+      MaskSprites_ataque0014_5: -367794756867060020
+      MaskSprites_ataque0014_6: 730437115699765313
+      MaskSprites_ataque0014_7: 5245144174746233519
+      MaskSprites_ataque0014_8: -5267293397862666789
+      MaskSprites_ataque0014_9: -781943337790509045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

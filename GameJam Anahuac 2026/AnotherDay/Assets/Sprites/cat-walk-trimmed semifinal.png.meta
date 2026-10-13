@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 680901c79f03d2b4cacd684ea1bb1b5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4711373215338503625
+    second: cat-walk-trimmed semifinal_0
+  - first:
+      213: 3113099247924650381
+    second: cat-walk-trimmed semifinal_1
+  - first:
+      213: -1915843000320202808
+    second: cat-walk-trimmed semifinal_2
+  - first:
+      213: 7610146354302112417
+    second: cat-walk-trimmed semifinal_3
+  - first:
+      213: 6091382662127798484
+    second: cat-walk-trimmed semifinal_4
+  - first:
+      213: 1943298651306538648
+    second: cat-walk-trimmed semifinal_5
+  - first:
+      213: 1471838568759048794
+    second: cat-walk-trimmed semifinal_6
+  - first:
+      213: 8837979042276251416
+    second: cat-walk-trimmed semifinal_7
+  - first:
+      213: -4065456564096594073
+    second: cat-walk-trimmed semifinal_8
+  - first:
+      213: 2941720342362931737
+    second: cat-walk-trimmed semifinal_9
+  - first:
+      213: -7887622168602605113
+    second: cat-walk-trimmed semifinal_10
+  - first:
+      213: -3422782172594693200
+    second: cat-walk-trimmed semifinal_11
+  - first:
+      213: -8290981309374807979
+    second: cat-walk-trimmed semifinal_12
+  - first:
+      213: -722223571080857086
+    second: cat-walk-trimmed semifinal_13
+  - first:
+      213: 2404661121600717063
+    second: cat-walk-trimmed semifinal_14
+  - first:
+      213: -3623548228756264295
+    second: cat-walk-trimmed semifinal_15
+  - first:
+      213: 7116821247123068825
+    second: cat-walk-trimmed semifinal_16
+  - first:
+      213: -8662786084583612477
+    second: cat-walk-trimmed semifinal_17
+  - first:
+      213: 2325848449445678722
+    second: cat-walk-trimmed semifinal_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_0
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 11944
+        width: 1398
+        height: 2596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd9a883af8226140800000000000000
+      internalID: 4711373215338503625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_1
+      rect:
+        serializedVersion: 2
+        x: 9824
+        y: 11924
+        width: 1290
+        height: 2582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81a517a543f33b20800000000000000
+      internalID: 3113099247924650381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_2
+      rect:
+        serializedVersion: 2
+        x: 13665
+        y: 11922
+        width: 1042
+        height: 2617
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7ee7811fe8965e0800000000000000
+      internalID: -1915843000320202808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_3
+      rect:
+        serializedVersion: 2
+        x: 17445
+        y: 11922
+        width: 1163
+        height: 2639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a259e8f9cbac9960800000000000000
+      internalID: 7610146354302112417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_4
+      rect:
+        serializedVersion: 2
+        x: 21225
+        y: 11923
+        width: 1276
+        height: 2638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8c917f140f88450800000000000000
+      internalID: 6091382662127798484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_5
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 8156
+        width: 1201
+        height: 2591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8963f9bc3dbf7fa10800000000000000
+      internalID: 1943298651306538648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_6
+      rect:
+        serializedVersion: 2
+        x: 9839
+        y: 8162
+        width: 1186
+        height: 2565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a3a9151650d6410800000000000000
+      internalID: 1471838568759048794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_7
+      rect:
+        serializedVersion: 2
+        x: 13665
+        y: 8159
+        width: 1041
+        height: 2591
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81719330d1fc6aa70800000000000000
+      internalID: 8837979042276251416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_8
+      rect:
+        serializedVersion: 2
+        x: 17445
+        y: 8159
+        width: 1043
+        height: 2619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f0e3f6bc89497c0800000000000000
+      internalID: -4065456564096594073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_9
+      rect:
+        serializedVersion: 2
+        x: 21225
+        y: 8169
+        width: 1173
+        height: 2594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9124513c01713d820800000000000000
+      internalID: 2941720342362931737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_10
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 4379
+        width: 1354
+        height: 2559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c902f59d69898290800000000000000
+      internalID: -7887622168602605113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_11
+      rect:
+        serializedVersion: 2
+        x: 9825
+        y: 4366
+        width: 1291
+        height: 2575
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb14faafb5df70d0800000000000000
+      internalID: -3422782172594693200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_12
+      rect:
+        serializedVersion: 2
+        x: 13665
+        y: 4363
+        width: 1042
+        height: 2627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550cf473d6480fc80800000000000000
+      internalID: -8290981309374807979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_13
+      rect:
+        serializedVersion: 2
+        x: 17445
+        y: 4362
+        width: 1158
+        height: 2632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20abf451d752af5f0800000000000000
+      internalID: -722223571080857086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_14
+      rect:
+        serializedVersion: 2
+        x: 21225
+        y: 4366
+        width: 1273
+        height: 2605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7010436bc821f5120800000000000000
+      internalID: 2404661121600717063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_15
+      rect:
+        serializedVersion: 2
+        x: 6009
+        y: 597
+        width: 1316
+        height: 2557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aac76951296bdc0800000000000000
+      internalID: -3623548228756264295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_16
+      rect:
+        serializedVersion: 2
+        x: 9885
+        y: 600
+        width: 1067
+        height: 2587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99719bcb73704c260800000000000000
+      internalID: 7116821247123068825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_17
+      rect:
+        serializedVersion: 2
+        x: 13665
+        y: 600
+        width: 1038
+        height: 2615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf523714f997c780800000000000000
+      internalID: -8662786084583612477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat-walk-trimmed semifinal_18
+      rect:
+        serializedVersion: 2
+        x: 17443
+        y: 603
+        width: 1053
+        height: 2611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e4a9687d2174020800000000000000
+      internalID: 2325848449445678722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 36897feed8321c74c898a9793a569510
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cat-walk-trimmed semifinal_0: 4711373215338503625
+      cat-walk-trimmed semifinal_1: 3113099247924650381
+      cat-walk-trimmed semifinal_10: -7887622168602605113
+      cat-walk-trimmed semifinal_11: -3422782172594693200
+      cat-walk-trimmed semifinal_12: -8290981309374807979
+      cat-walk-trimmed semifinal_13: -722223571080857086
+      cat-walk-trimmed semifinal_14: 2404661121600717063
+      cat-walk-trimmed semifinal_15: -3623548228756264295
+      cat-walk-trimmed semifinal_16: 7116821247123068825
+      cat-walk-trimmed semifinal_17: -8662786084583612477
+      cat-walk-trimmed semifinal_18: 2325848449445678722
+      cat-walk-trimmed semifinal_2: -1915843000320202808
+      cat-walk-trimmed semifinal_3: 7610146354302112417
+      cat-walk-trimmed semifinal_4: 6091382662127798484
+      cat-walk-trimmed semifinal_5: 1943298651306538648
+      cat-walk-trimmed semifinal_6: 1471838568759048794
+      cat-walk-trimmed semifinal_7: 8837979042276251416
+      cat-walk-trimmed semifinal_8: -4065456564096594073
+      cat-walk-trimmed semifinal_9: 2941720342362931737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

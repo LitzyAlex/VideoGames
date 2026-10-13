@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 47731bc556b3c90418d8bc7c6a4422f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8148953545893300058
+    second: sprite-sadcat-dia 2_0
+  - first:
+      213: 1126889063850286075
+    second: sprite-sadcat-dia 2_1
+  - first:
+      213: 8310944947704714508
+    second: sprite-sadcat-dia 2_2
+  - first:
+      213: 8104326190195861085
+    second: sprite-sadcat-dia 2_3
+  - first:
+      213: -7433231430476201012
+    second: sprite-sadcat-dia 2_4
+  - first:
+      213: -3705259965436534953
+    second: sprite-sadcat-dia 2_5
+  - first:
+      213: 5042034876509194389
+    second: sprite-sadcat-dia 2_6
+  - first:
+      213: 1932440326760394816
+    second: sprite-sadcat-dia 2_7
+  - first:
+      213: -7513071444285963986
+    second: sprite-sadcat-dia 2_8
+  - first:
+      213: 6078334092406532687
+    second: sprite-sadcat-dia 2_9
+  - first:
+      213: -2371512417636203394
+    second: sprite-sadcat-dia 2_10
+  - first:
+      213: 6200475718197095315
+    second: sprite-sadcat-dia 2_11
+  - first:
+      213: -4540679807472289174
+    second: sprite-sadcat-dia 2_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6167
+        width: 698
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5741223316e61170800000000000000
+      internalID: 8148953545893300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_1
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 6177
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb911012a383af00800000000000000
+      internalID: 1126889063850286075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_2
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 6179
+        width: 698
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0554cb8568665370800000000000000
+      internalID: 8310944947704714508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_3
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 4596
+        width: 698
+        height: 1538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56e48e3bb9587070800000000000000
+      internalID: 8104326190195861085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_4
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 4645
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3823d956bd7d890800000000000000
+      internalID: -7433231430476201012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3109
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fdda751b5449cc0800000000000000
+      internalID: -3705259965436534953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_6
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 3108
+        width: 698
+        height: 1492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598067f9108e8f540800000000000000
+      internalID: 5042034876509194389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_7
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 3105
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040713a1d3861da10800000000000000
+      internalID: 1932440326760394816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_8
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1570
+        width: 698
+        height: 1493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21443fc3553cb790800000000000000
+      internalID: -7513071444285963986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_9
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1562
+        width: 699
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aa90417a49a5450800000000000000
+      internalID: 6078334092406532687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_10
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 26
+        width: 665
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74cd5e5502b61fd0800000000000000
+      internalID: -2371512417636203394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_11
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 28
+        width: 665
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ba29d60d38c0650800000000000000
+      internalID: 6200475718197095315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite-sadcat-dia 2_12
+      rect:
+        serializedVersion: 2
+        x: 4285
+        y: 26
+        width: 665
+        height: 1433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a33dcc5c34cf0c0800000000000000
+      internalID: -4540679807472289174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite-sadcat-dia 2_0: 8148953545893300058
+      sprite-sadcat-dia 2_1: 1126889063850286075
+      sprite-sadcat-dia 2_10: -2371512417636203394
+      sprite-sadcat-dia 2_11: 6200475718197095315
+      sprite-sadcat-dia 2_12: -4540679807472289174
+      sprite-sadcat-dia 2_2: 8310944947704714508
+      sprite-sadcat-dia 2_3: 8104326190195861085
+      sprite-sadcat-dia 2_4: -7433231430476201012
+      sprite-sadcat-dia 2_5: -3705259965436534953
+      sprite-sadcat-dia 2_6: 5042034876509194389
+      sprite-sadcat-dia 2_7: 1932440326760394816
+      sprite-sadcat-dia 2_8: -7513071444285963986
+      sprite-sadcat-dia 2_9: 6078334092406532687
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 36f27d3429a7b1d41b4c8665b4586bb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6340932550298212469
+    second: gato on fire FNAL_0
+  - first:
+      213: 156422034049152985
+    second: gato on fire FNAL_1
+  - first:
+      213: 4870801106117554787
+    second: gato on fire FNAL_2
+  - first:
+      213: -9033215294105006578
+    second: gato on fire FNAL_3
+  - first:
+      213: -754072336126831640
+    second: gato on fire FNAL_4
+  - first:
+      213: 1529526015409360972
+    second: gato on fire FNAL_5
+  - first:
+      213: -2539080205506575919
+    second: gato on fire FNAL_6
+  - first:
+      213: 8013045346061838174
+    second: gato on fire FNAL_7
+  - first:
+      213: -7701945090380427057
+    second: gato on fire FNAL_8
+  - first:
+      213: -334022258497059903
+    second: gato on fire FNAL_9
+  - first:
+      213: -1061533214843325031
+    second: gato on fire FNAL_10
+  - first:
+      213: 7153846895859127237
+    second: gato on fire FNAL_11
+  - first:
+      213: 8014632884189408804
+    second: gato on fire FNAL_12
+  - first:
+      213: -2900669861417351806
+    second: gato on fire FNAL_13
+  - first:
+      213: 4841960510223817956
+    second: gato on fire FNAL_14
+  - first:
+      213: -8222759430971243507
+    second: gato on fire FNAL_15
+  - first:
+      213: -2109835087447873972
+    second: gato on fire FNAL_16
+  - first:
+      213: -4406872598860641033
+    second: gato on fire FNAL_17
+  - first:
+      213: 2001866181955208528
+    second: gato on fire FNAL_18
+  - first:
+      213: 8284848015780041413
+    second: gato on fire FNAL_19
+  - first:
+      213: -8544003271902659188
+    second: gato on fire FNAL_20
+  - first:
+      213: 8066603518568273504
+    second: gato on fire FNAL_21
+  - first:
+      213: 5957566030134449841
+    second: gato on fire FNAL_22
+  - first:
+      213: 1218262552431048513
+    second: gato on fire FNAL_23
+  - first:
+      213: -7215298223932122581
+    second: gato on fire FNAL_24
+  - first:
+      213: -8463616027144271674
+    second: gato on fire FNAL_25
+  - first:
+      213: -6957868146359010972
+    second: gato on fire FNAL_26
+  - first:
+      213: -7199565199940232924
+    second: gato on fire FNAL_27
+  - first:
+      213: -975758503165447603
+    second: gato on fire FNAL_28
+  - first:
+      213: -9120362708471497721
+    second: gato on fire FNAL_29
+  - first:
+      213: 524648439190318165
+    second: gato on fire FNAL_30
+  - first:
+      213: -5062370157589483351
+    second: gato on fire FNAL_31
+  - first:
+      213: 7803556646996532385
+    second: gato on fire FNAL_32
+  - first:
+      213: -4187271630415513114
+    second: gato on fire FNAL_33
+  - first:
+      213: -8648653906827906383
+    second: gato on fire FNAL_34
+  - first:
+      213: -6702837816680523436
+    second: gato on fire FNAL_35
+  - first:
+      213: 8651696877818551295
+    second: gato on fire FNAL_36
+  - first:
+      213: 7864095517358013475
+    second: gato on fire FNAL_37
+  - first:
+      213: 5737483512995770791
+    second: gato on fire FNAL_38
+  - first:
+      213: 1323862844258989410
+    second: gato on fire FNAL_39
+  - first:
+      213: 7653185900402354191
+    second: gato on fire FNAL_40
+  - first:
+      213: -1939520219548602082
+    second: gato on fire FNAL_41
+  - first:
+      213: -8734091046580292556
+    second: gato on fire FNAL_42
+  - first:
+      213: -3631886009571219949
+    second: gato on fire FNAL_43
+  - first:
+      213: 8810828331528159285
+    second: gato on fire FNAL_44
+  - first:
+      213: -5698691763872403175
+    second: gato on fire FNAL_45
+  - first:
+      213: -433511850951799627
+    second: gato on fire FNAL_46
+  - first:
+      213: 6572862680329703273
+    second: gato on fire FNAL_47
+  - first:
+      213: -2194283945669267300
+    second: gato on fire FNAL_48
+  - first:
+      213: 8503782888893578334
+    second: gato on fire FNAL_49
+  - first:
+      213: -2674584155650169963
+    second: gato on fire FNAL_50
+  - first:
+      213: 8504289359147951319
+    second: gato on fire FNAL_51
+  - first:
+      213: 7544721871567994348
+    second: gato on fire FNAL_52
+  - first:
+      213: -8757664609278601329
+    second: gato on fire FNAL_53
+  - first:
+      213: 3018912575018188831
+    second: gato on fire FNAL_54
+  - first:
+      213: 1809588804185839921
+    second: gato on fire FNAL_55
+  - first:
+      213: -6524549285685427497
+    second: gato on fire FNAL_56
+  - first:
+      213: 7495981441824112452
+    second: gato on fire FNAL_57
+  - first:
+      213: 3487857534568119134
+    second: gato on fire FNAL_58
+  - first:
+      213: -4395215766691160779
+    second: gato on fire FNAL_59
+  - first:
+      213: 8222344935241878035
+    second: gato on fire FNAL_60
+  - first:
+      213: 2152493635817976421
+    second: gato on fire FNAL_61
+  - first:
+      213: -3278446961872213527
+    second: gato on fire FNAL_62
+  - first:
+      213: 2083577607364005733
+    second: gato on fire FNAL_63
+  - first:
+      213: 6377203749669194228
+    second: gato on fire FNAL_64
+  - first:
+      213: 1890650216754220182
+    second: gato on fire FNAL_65
+  - first:
+      213: 300448773483288588
+    second: gato on fire FNAL_66
+  - first:
+      213: 6741368316373045673
+    second: gato on fire FNAL_67
+  - first:
+      213: -2768719539338119191
+    second: gato on fire FNAL_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 530
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gato on fire FNAL_0
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 8589
+        width: 525
+        height: 1132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5789c3d0f848ff750800000000000000
+      internalID: 6340932550298212469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_1
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 8588
+        width: 525
+        height: 1219
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46431503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d73b8ed209bb2200800000000000000
+      internalID: 156422034049152985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_2
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 8588
+        width: 525
+        height: 1356
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41740412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36277b5accf889340800000000000000
+      internalID: 4870801106117554787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_3
+      rect:
+        serializedVersion: 2
+        x: 4726
+        y: 8588
+        width: 525
+        height: 1412
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40084985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ece3fcc8293a280800000000000000
+      internalID: -9033215294105006578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_4
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 8590
+        width: 525
+        height: 1407
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39516702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3163e943ff885f0800000000000000
+      internalID: -754072336126831640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_5
+      rect:
+        serializedVersion: 2
+        x: 6529
+        y: 8592
+        width: 523
+        height: 1395
+      alignment: 9
+      pivot: {x: 0.50191206, y: 0.40573478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c409137aec7f93510800000000000000
+      internalID: 1529526015409360972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_6
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 6890
+        width: 529
+        height: 1445
+      alignment: 9
+      pivot: {x: 0.49621928, y: 0.3916955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d10e86710063ccd0800000000000000
+      internalID: -2539080205506575919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_9
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 6890
+        width: 528
+        height: 1437
+      alignment: 9
+      pivot: {x: 0.4971591, y: 0.39387614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3853f86805d5bf0800000000000000
+      internalID: -334022258497059903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_11
+      rect:
+        serializedVersion: 2
+        x: 5672
+        y: 6891
+        width: 527
+        height: 1409
+      alignment: 9
+      pivot: {x: 0.49810246, y: 0.40170333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3d63d59d1974360800000000000000
+      internalID: 7153846895859127237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_12
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 6887
+        width: 529
+        height: 1417
+      alignment: 9
+      pivot: {x: 0.49621928, y: 0.39943543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e26431522b93f60800000000000000
+      internalID: 8014632884189408804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_13
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 6892
+        width: 531
+        height: 1375
+      alignment: 9
+      pivot: {x: 0.49435028, y: 0.41163635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28589832120ceb7d0800000000000000
+      internalID: -2900669861417351806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_14
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 6892
+        width: 525
+        height: 1425
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39719298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec1c542e69123340800000000000000
+      internalID: 4841960510223817956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_15
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 5196
+        width: 528
+        height: 1440
+      alignment: 9
+      pivot: {x: 0.4971591, y: 0.39305556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0447731dd3e2ed80800000000000000
+      internalID: -8222759430971243507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_19
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 5199
+        width: 525
+        height: 1384
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40895954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c25ba61061b9f270800000000000000
+      internalID: 8284848015780041413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_20
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 5206
+        width: 528
+        height: 1395
+      alignment: 9
+      pivot: {x: 0.4971591, y: 0.40573478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d7772da4a9d6980800000000000000
+      internalID: -8544003271902659188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_23
+      rect:
+        serializedVersion: 2
+        x: 4722
+        y: 5193
+        width: 526
+        height: 1299
+      alignment: 9
+      pivot: {x: 0.49904943, y: 0.4357198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14730d8365328e010800000000000000
+      internalID: 1218262552431048513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_25
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 5185
+        width: 562
+        height: 1228
+      alignment: 9
+      pivot: {x: 0.46708184, y: 0.46091205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c843c2c0123b8a80800000000000000
+      internalID: -8463616027144271674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_26
+      rect:
+        serializedVersion: 2
+        x: 5627
+        y: 5187
+        width: 547
+        height: 1256
+      alignment: 9
+      pivot: {x: 0.47989032, y: 0.45063695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469f34609cfa07f90800000000000000
+      internalID: -6957868146359010972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_33
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 3489
+        width: 560
+        height: 1305
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.43371648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9330323a2d3e5c0800000000000000
+      internalID: -4187271630415513114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_38
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3492
+        width: 562
+        height: 1259
+      alignment: 9
+      pivot: {x: 0.46708184, y: 0.44956315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f5c84bd2af9f40800000000000000
+      internalID: 5737483512995770791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_39
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 3494
+        width: 548
+        height: 1219
+      alignment: 9
+      pivot: {x: 0.4790146, y: 0.46431503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26535632e3e4f5210800000000000000
+      internalID: 1323862844258989410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_40
+      rect:
+        serializedVersion: 2
+        x: 4722
+        y: 3492
+        width: 551
+        height: 1264
+      alignment: 9
+      pivot: {x: 0.47640654, y: 0.4477848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08a2813704953a60800000000000000
+      internalID: 7653185900402354191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_41
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 3494
+        width: 555
+        height: 1308
+      alignment: 9
+      pivot: {x: 0.47297296, y: 0.4327217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e113e17e2a07515e0800000000000000
+      internalID: -1939520219548602082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_43
+      rect:
+        serializedVersion: 2
+        x: 6537
+        y: 3493
+        width: 558
+        height: 1134
+      alignment: 9
+      pivot: {x: 0.4704301, y: 0.49911818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316ebc6bae2f89dc0800000000000000
+      internalID: -3631886009571219949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_45
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1707
+        width: 696
+        height: 955
+      alignment: 9
+      pivot: {x: 0.37715518, y: 0.59267014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f0f1a80e2ae0b0800000000000000
+      internalID: -5698691763872403175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_46
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1803
+        width: 863
+        height: 703
+      alignment: 9
+      pivot: {x: 0.3041715, y: 0.8051209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc8816b44bdbf9f0800000000000000
+      internalID: -433511850951799627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_48
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 1803
+        width: 863
+        height: 690
+      alignment: 9
+      pivot: {x: 0.3041715, y: 0.82028985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c907a0290665c81e0800000000000000
+      internalID: -2194283945669267300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_52
+      rect:
+        serializedVersion: 2
+        x: 4594
+        y: 1804
+        width: 865
+        height: 716
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.7905028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced3eeb819c34b860800000000000000
+      internalID: 7544721871567994348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_55
+      rect:
+        serializedVersion: 2
+        x: 6407
+        y: 1800
+        width: 865
+        height: 720
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.7861111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13955070e63fc1910800000000000000
+      internalID: 1809588804185839921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_56
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 1801
+        width: 865
+        height: 683
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.8286969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d201334ef42475a0800000000000000
+      internalID: -6524549285685427497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_59
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 108
+        width: 865
+        height: 711
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.7960619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d5d2b0c8e0103c0800000000000000
+      internalID: -4395215766691160779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_61
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 107
+        width: 865
+        height: 707
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.8005658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5623830be813fdd10800000000000000
+      internalID: 2152493635817976421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_64
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 107
+        width: 865
+        height: 712
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.7949438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9425fb501608850800000000000000
+      internalID: 6377203749669194228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_66
+      rect:
+        serializedVersion: 2
+        x: 4589
+        y: 108
+        width: 865
+        height: 739
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.76589984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c085ca051986b2400800000000000000
+      internalID: 300448773483288588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_67
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 108
+        width: 865
+        height: 708
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.799435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a11d7534c62e8d50800000000000000
+      internalID: 6741368316373045673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gato on fire FNAL_68
+      rect:
+        serializedVersion: 2
+        x: 6407
+        y: 107
+        width: 865
+        height: 733
+      alignment: 9
+      pivot: {x: 0.3034682, y: 0.7721692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7711f8f388399d0800000000000000
+      internalID: -2768719539338119191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3bb5643aeb54fc04b971265c86e5eef9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gato on fire FNAL_0: 6340932550298212469
+      gato on fire FNAL_1: 156422034049152985
+      gato on fire FNAL_10: -1061533214843325031
+      gato on fire FNAL_11: 7153846895859127237
+      gato on fire FNAL_12: 8014632884189408804
+      gato on fire FNAL_13: -2900669861417351806
+      gato on fire FNAL_14: 4841960510223817956
+      gato on fire FNAL_15: -8222759430971243507
+      gato on fire FNAL_16: -2109835087447873972
+      gato on fire FNAL_17: -4406872598860641033
+      gato on fire FNAL_18: 2001866181955208528
+      gato on fire FNAL_19: 8284848015780041413
+      gato on fire FNAL_2: 4870801106117554787
+      gato on fire FNAL_20: -8544003271902659188
+      gato on fire FNAL_21: 8066603518568273504
+      gato on fire FNAL_22: 5957566030134449841
+      gato on fire FNAL_23: 1218262552431048513
+      gato on fire FNAL_24: -7215298223932122581
+      gato on fire FNAL_25: -8463616027144271674
+      gato on fire FNAL_26: -6957868146359010972
+      gato on fire FNAL_27: -7199565199940232924
+      gato on fire FNAL_28: -975758503165447603
+      gato on fire FNAL_29: -9120362708471497721
+      gato on fire FNAL_3: -9033215294105006578
+      gato on fire FNAL_30: 524648439190318165
+      gato on fire FNAL_31: -5062370157589483351
+      gato on fire FNAL_32: 7803556646996532385
+      gato on fire FNAL_33: -4187271630415513114
+      gato on fire FNAL_34: -8648653906827906383
+      gato on fire FNAL_35: -6702837816680523436
+      gato on fire FNAL_36: 8651696877818551295
+      gato on fire FNAL_37: 7864095517358013475
+      gato on fire FNAL_38: 5737483512995770791
+      gato on fire FNAL_39: 1323862844258989410
+      gato on fire FNAL_4: -754072336126831640
+      gato on fire FNAL_40: 7653185900402354191
+      gato on fire FNAL_41: -1939520219548602082
+      gato on fire FNAL_42: -8734091046580292556
+      gato on fire FNAL_43: -3631886009571219949
+      gato on fire FNAL_44: 8810828331528159285
+      gato on fire FNAL_45: -5698691763872403175
+      gato on fire FNAL_46: -433511850951799627
+      gato on fire FNAL_47: 6572862680329703273
+      gato on fire FNAL_48: -2194283945669267300
+      gato on fire FNAL_49: 8503782888893578334
+      gato on fire FNAL_5: 1529526015409360972
+      gato on fire FNAL_50: -2674584155650169963
+      gato on fire FNAL_51: 8504289359147951319
+      gato on fire FNAL_52: 7544721871567994348
+      gato on fire FNAL_53: -8757664609278601329
+      gato on fire FNAL_54: 3018912575018188831
+      gato on fire FNAL_55: 1809588804185839921
+      gato on fire FNAL_56: -6524549285685427497
+      gato on fire FNAL_57: 7495981441824112452
+      gato on fire FNAL_58: 3487857534568119134
+      gato on fire FNAL_59: -4395215766691160779
+      gato on fire FNAL_6: -2539080205506575919
+      gato on fire FNAL_60: 8222344935241878035
+      gato on fire FNAL_61: 2152493635817976421
+      gato on fire FNAL_62: -3278446961872213527
+      gato on fire FNAL_63: 2083577607364005733
+      gato on fire FNAL_64: 6377203749669194228
+      gato on fire FNAL_65: 1890650216754220182
+      gato on fire FNAL_66: 300448773483288588
+      gato on fire FNAL_67: 6741368316373045673
+      gato on fire FNAL_68: -2768719539338119191
+      gato on fire FNAL_7: 8013045346061838174
+      gato on fire FNAL_8: -7701945090380427057
+      gato on fire FNAL_9: -334022258497059903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
