@@ -1,3 +1,4 @@
+
 # Archivos generados por Unity
 **/Library/
 **/Temp/
@@ -15,6 +16,13 @@
 *.user
 *.tmp
 
+# Builds exportadas
+**/*_Data/
+**/*.exe
+**/*.pdb
+
 # Sistema operativo
 Thumbs.db
 .DS_Store
+
+/Jugables/Another Day/GameJam2026_Data/
